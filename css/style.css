@@ -1,0 +1,177 @@
+
+
+/* nav start*/
+header{
+    
+    background-image: url(/media/bg\ copy.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+/* nav end */
+/* footer start*/
+h6{
+    background-color:  #f68e56;
+    width: 100%;
+    height: 25%;
+}
+/* footer end*/
+.card-body a{
+    background-color: #f68e56;
+    border-radius: 0%;
+    border: #f68e56;
+    
+}
+/*contact start*/
+.myname{
+background-image: url(/media/bg\ \(2\).png) ;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 900px;
+width: 100%;
+}
+.form input{
+    background-color: transparent;
+    border-radius: 0%;
+    border: 2px solid white;
+    padding-left: 10px;
+    
+}
+/* contact end*/
+
+/* blog start*/
+.oder {
+    color: #f68e56;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #f68e56;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.oder a{
+     color: #f68e56;
+     text-decoration: none;
+     
+}
+/* blog end*/
+
+/* hero start*/
+.blue {
+    background-color: white;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+/* hero end*/
+
+/* my skills start*/
+.skillsup {
+    background-image: url(/media/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    padding: 0%;
+}
+.red{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 60px;
+
+}
+.red1{
+    font-size: 15px;
+    text-transform: capitalize;
+    
+}
+.border{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 75px;
+    text-align: center;
+}
+.photo{
+    padding-top: 100px;
+    
+
+}
+.red2{
+    text-align: center;
+    padding-bottom: 35%;
+}
+.skill-style{
+    padding: 0px 400px;
+}
+/* my skills end*/
+.form-control::placeholder { 
+    color: white;
+    opacity: 1; 
+}
+.hero-style{
+    padding: 0px 600px;
+
+}
+.btn{
+    border: 2px solid  #f68e56;
+    border-radius: 0%;
+    color: #ffffff;
+    background-color: #f68e56;
+}
+.fa-solid {
+    color: #f68e56;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.read{
+    color:#ffffff;
+    background-color: #f68e56;
+    padding: 8px;
+}
+.port{
+    background-image: url(/media/portfolio1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    padding-top: 2%;
+}
+.all{
+    width: 10%;
+    margin-top: 3%;
+    margin-left: 5%;
+    text-transform: capitalize;
+    
+
+}
+.img-fluid{
+  width: 60%;
+  padding-top: 3%;
+   margin-left: 20%;
+   
+}
+.img-fluid1{
+    width: 60%;
+    padding-top: 1%;
+     margin-left: 20%;
+}
+.all1{
+    padding-left: 16%;
+}
+.container{
+    margin-bottom: 50px;
+}
+/* about start*/
+.about{
+    margin-bottom: 50px;
+}
+.img-fluid9{
+    margin-right: 30%;
+}
+/* about end*/
